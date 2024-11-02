@@ -1,0 +1,157 @@
+{
+  "banners": [
+    {
+      "title": "Summer Sale",
+      "description": "Enjoy up to 50% off on\n all summer products!",
+      "image": "https://img.freepik.com/fotos-premium/orgullo-diversidad-retrato-medicos-servicio-atencion-medica-integridad-hospital-trabajo-equipo-o-liderazgo-grupo-personal-medico-enfermeras-o-empleados-profesionales-mision-clinica-o-objetivos-fuerza-trabajo_952832-40573.jpg"
+    },
+    {
+      "title": "New Arrivals",
+      "description": "Check out the latest\n trends in our collection.",
+      "image": "https://cdn.prod.website-files.com/60a0cd9e83c3b8837315f825/63aee8d292392d81905f7431_Doctors%20at%20HCA%20hospital%20performing%20surgery.webp"
+    },
+    {
+      "title": "Holiday Discounts",
+      "description": "Get amazing discounts\n on holiday gifts and more!",
+      "image": "https://s3-alpha-sig.figma.com/img/6e76/389f/b8c80d0899c8c8ea2b2d81ea6e01642f?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hoNJZrcFiWso92WmPlANFnMxyx-XpCepN8RWNIKlKT4G6jrJFu1OefJjda~m7AWbtz-8J7c~Fp-TEYhr1kh4oFo~ew0ZthwYlk0fFwO0K~YrYn31BxXbyQfZRct25YF9roaHsW5DqcJOAuRVVrBL7F327LsnDCUSWO-pqxCEDDF3Y1PVbeI3lxMIaeTnXolkSAmF6rMcdwKEgJCp1FIQ0Nta3izHz~bVsVJ3PVZAeOGin5KiLuOoGeoYFSCr4XHVm8f~AI3PBlu07zL8xx6nA5Pw~chYD4vLW7A6KODi8wSIFDxoeLNdc1vQUa5xLimMMnF2MrMaKyfyDlt-5jPZiA__"
+    },
+    {
+      "title": "Exclusive Offer",
+      "description": "Sign up now and get\n an exclusive 10% discount.",
+      "image": "https://images.sbs.com.au/dims4/default/141dc7e/2147483647/strip/true/crop/8192x4608+0+428/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F3f%2F06%2F5ba956f04c0eb48033cfeee32777%2Fgettyimages-1370321233.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Cardiology",
+      "icon": "https://cdn-icons-png.freepik.com/256/819/819236.png?semt=ais_hybrid"
+    },
+    {
+      "title": "Dentistry",
+      "icon": "https://static-00.iconduck.com/assets.00/tooth-icon-2048x1980-5u7jxq9l.png"
+    },
+    {
+      "title": "Orthopedics",
+      "icon": "https://cdn-icons-png.flaticon.com/512/421/421419.png"
+    },
+    {
+      "title": "Dermatology",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2885/2885184.png"
+    },
+    {
+      "title": "Pediatrics",
+      "icon": "https://cdn.iconscout.com/icon/premium/png-256-thumb/pediatric-119224.png"
+    },
+    {
+      "title": "Ophthalmo...",
+      "icon": "https://cdn.iconscout.com/icon/premium/png-256-thumb/ophthalmology-3120389-2630962.png"
+    }
+  ],
+  "nearby_centers": [
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/9f50/e360/edb80c5d0e9f43d9cc9e7c48030fa945?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=F3T9iA8WBVrcz54Tuc96g3p9-7iOtTHhaMEzX7A9q7~1Mndrr03w~3M41aY84jhsCBeK-FpCaP634UXdDS4xJwujKc7Mh150MmLORKBFfZ9jVm15-4-1goF5w-zxgIZOgwC6eGMPtrcMGVrjwru-IGbzSi192ibA9-d1G1imBI5DCeMuCTZfezO3wLafy06HMyelb-cxD-q8hJEFPKrsfUg8DV7C04JRftVwrwDNBMZ8OYRPxOGMmST7M7WyUVeI9b8i5d-2Z7gYt4JaxuIFrXh8041W7G~NRrhFVEYU7yPvM6uPfZ~J5c5Xu6a9Sd5WPtDwpNO-VIsyVexzhIZOlQ__",
+      "title": "Sunrise Health Clinic",
+      "location_name": "123 Oak Street, CA 98765",
+      "review_rate": 4.1,
+      "count_reviews": 102,
+      "distance_km": 1.1,
+      "distance_minutes": 6
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/0b53/b0b9/f213d7dbdf0e01693c868dd621270fcb?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=G4lbdBrd-t7h3dB0nsBJAK0JiqUN6QeogHxWIiEQfffpjd5oUL74Jq4ddPyC8i-6LN1OdiWtWkwLyUwUcrtmxrXzbrh~cjaYlM4p85U-FM9d-7u6mvl7C~vjOUlV5d6E77k3jbXLvo~1Mdl1bMrnfH5tJflb5jN-iTWOhqefd~eA-bQbv85MZdtD51jRQ4cnKWXYwzDNr~7KZ4ZVPYxraZrKVsZg-cTfwWK4okTY2sakGENDK5X36~9oIzgYMEaDqRxDNSraAFh8XWJkRXM5Lhn6M5rQION0-wU7rRP44S0krfl2icL5iDXOjSTi0WLovV~X6RWQGv9Dg9ZfAVd2pQ__",
+      "title": "Golden Cardiology",
+      "location_name": "555 Bridge Street, CA 98765",
+      "review_rate": 4.2,
+      "count_reviews": 104,
+      "distance_km": 1.1,
+      "distance_minutes": 7
+    },
+    {
+      "image": "https://images.pexels.com/photos/3279209/pexels-photo-3279209.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Willow Creek Family Medicine",
+      "location_name": "678 Elm Street, CA 98766",
+      "review_rate": 4.3,
+      "count_reviews": 106,
+      "distance_km": 1.1,
+      "distance_minutes": 8
+    },
+    {
+      "image": "https://images.pexels.com/photos/1250655/pexels-photo-1250655.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "title": "Crystal Springs Health Hub",
+      "location_name": "789 Pine Street, CA 98767",
+      "review_rate": 4.4,
+      "count_reviews": 108,
+      "distance_km": 1.2,
+      "distance_minutes": 9
+    },
+    {
+      "image": "https://images.pexels.com/photos/5452221/pexels-photo-5452221.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "title": "Harmony Health Center",
+      "location_name": "345 Maple Street, CA 98771",
+      "review_rate": 4.3,
+      "count_reviews": 112,
+      "distance_km": 1.8,
+      "distance_minutes": 16
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSeJPa4xsHsGLpHvEbvI-VqAUgJbx3Ax2ooA&s",
+      "title": "Starlight Cardiac Institute",
+      "location_name": "901 Birch Street, CA 98769",
+      "review_rate": 4.9,
+      "count_reviews": 130,
+      "distance_km": 1.6,
+      "distance_minutes": 14
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEH0IFAEVy_t7I3fA7Zm3hL3pd1k_8WjOg3A&s",
+      "title": "Medical Center 10",
+      "location_name": "102 Oakwood Avenue, CA 98770",
+      "review_rate": 5.0,
+      "count_reviews": 135,
+      "distance_km": 1.7,
+      "distance_minutes": 15
+    }
+  ],
+  "doctors": [
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/ab8e/d8d0/b0db1e98ab7f1a31afba13769f282033?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SlxRcBii19yeHBdmBeXp~uQmUjEJWRZYe~uxSFy2FNZJQhbp~ZRcmJxkUu5oFWTk1D9QZPyPx-Vs9jcnNsaHba0yueC-bd6ilCVkoirjKtWKlgreXb43gzDbpcXwftujq8uqLDuHrZESElSdzQqH3sNGiDr9tmtZN6qw9I1Ijy0z2i7V3qMVyin4BvwIjPNUUsGSzASawnXKqhu-qhZngKHObcUIXGPelmFlwLrK9WYphPNuE34W3aIiPfgUQGG54sHq54aHBFTIXRip26PCa0-MzQ02YMPGmkzeGCscRS2gj2aK4gu-3iyIj~2-nCVgS1uJynqTSbfeC8vDapu5Vw__",
+      "full_name": "Dr. David Patel",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 1, USA",
+      "review_rate": 4.1,
+      "reviews_count": 53
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/eda2/ee92/bffb300537aa46caf4c65351a0a20dde?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QDE22C2tyVleCTcOs0-e2Gqay-M4MmksD0atv9IX7PYefeaHKp9LR71NkHexLvYuSbgPJj5OEkIQP4Q69pGki2UpBEFoN3bmDj4wvmAp4bj7WQUE8ndEbJS27k8XS37I8QLFtG4Wy5rbuJzWbh1gaaMkjv8dZRZ3J5u1udij3FZDUJsvIqwSaE-sKsryEs~obuCvCsHYBjUWEc6SYPLzaEukr1G0nI~zU6wkZhztz3CaRUd-dJIral0qiqx8L-3Zt9Rd1~r-3ZcgWLem6t~IMZbV6vZgKMq48JSEkHnhhemMv3x3AJkdsno3AZdbLaF9fr00Bk154Breqk~02~1xCQ__",
+      "full_name": "Dr. Jessica Turner",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 2, USA",
+      "review_rate": 4.2,
+      "reviews_count": 56
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/86b5/e652/0800f3ee36c944ded270e36c1763aaed?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=StoPWQkx648v7awjxdrdNI~8KM7~PAGHfg0JQuxEDuOOfiRKTDeGaSDfsAOZASjaKeSexEpBUtGOve3eqw40MXBmsTeua35~AjHQuCcYw~1KmJmX8lF~6geiFl1laqMOv7lyBBNNUbSksFdV2FqUiANsBQzYVlVkzoDIurN9qHwkRiOtC-Y6JU7jE8UAiGiG0eJco~nfsYtyYuO6Z6Jl7f0VEyFAEXrkhSiLbzy2qjC0tJmNRH0-HPmPjAmgqAESxqEBgrYxkUGgLKyRBp3k0GkvHd7ej29IAYD3SKNLXrFpfrCHau~0llD8uffBe89pVU0Mglu1tjPIUAqOOc07fQ__",
+      "full_name": "Dr. David Patel",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 3, USA",
+      "review_rate": 5,
+      "reviews_count": 59
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/f501/868c/d62449885187cf0eb057a3fdee941589?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c2REdZ6zacUkUY7ho-y-hMDW4NGapvfHqbM~~ezkEz-fIFzJufoE0s5GmS7R85COK7MdsATZDQ~58ApZ87QCFkBndqi1qWbcx2E0-41sqqk3TjuV2Y8xsSV0gevJQrXU8USzDSWkH1qr3NoNXOnqN6fsKOgykawZoLTbDirzcC8GCwzG5WIQagR0kP~8~aaq4OxLLQ1vaVowfE6Rqm2k-PjhG7szRUrzQu8wzXedz6qX8RipFd~WUrtuDeCjmgzTFd3nrJJw48WuqoCBokmYV~oAxeYSXcC2pdTr-AKb7AGeYpY5RiFREn-mQdKB1COyVTtoqmNfRMl6C4i7pixUdg__",
+      "full_name": "Dr. Michael Johnson",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 5, USA",
+      "review_rate": 4.5,
+      "reviews_count": 65
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/177e/81a4/cbbe443ae4d16ccaa140e5590a4e0a76?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KoTyFtmCqm77H~nROn2YtExl2Olw7SGS3hzUOoTiFVQiU26BY8L5p7YIO2mXzMPbJGoxo2DdLZoRtToDPiuZPnLVOD4wecwqKJq2JTPPgWdJqhDjh5NB0m~wcQKDIvur7HgHLubGfgUp9s8Swm13x6oicXipcBAPc1JH97gXyqs8Ny77yuNiCMPudpHgO2pusSp9erjCee0Xl30PZmv6fnunrECuakabuqe5JbfE3oeXZA7zVkX~iVApi1KfcDT5DfTjdlxmkn1JIhBo9rxl7l5vDexT1bF6~up8S09QsIMNoqn8DxOeqT1WBg0MWzQfusxDoB9WgbaN7ir-9IFgew__",
+      "full_name": "Dr. Emily Walker",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 6, USA",
+      "review_rate": 4.6,
+      "reviews_count": 68
+    }
+  ]
+}
