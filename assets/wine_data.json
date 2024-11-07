@@ -1,0 +1,68 @@
+{
+  "userLocation": "Donnerville Drive",
+  "wineCategories": [
+    {
+      "type": "Red wines",
+      "count": "123",
+      "imagePath": "assets/images1.jpg"
+    },
+    {
+      "type": "White wines",
+      "count": "123",
+      "imagePath": "assets/images2.jpg"
+    },
+    {
+      "type": "Rosé wines",
+      "count": "123",
+      "imagePath": "assets/images1.jpg"
+    },
+    {
+      "type": "White wines",
+      "count": "123",
+      "imagePath": "assets/images2.jpg"
+    }
+  ],
+
+  "individualWines": [
+    {
+      "title": "Ocone Bozzovich Beneventano Bianco IGT",
+      "price": "₹ 23,256,596",
+      "imagePath": "assets/images3.jpg",
+      "availability": true,
+      "wineType": "Red wine (Green and Flinty)",
+      "origin": "Champagne Blanc, France",
+      "criticsScore": "94 / 100",
+      "bottleSize": "Bottle (750ml)"
+    },
+    {
+      "title": "2021 Petit Chablis-Passy Le Clou",
+      "price": "₹ 23,256,596",
+      "imagePath": "assets/images4.jpg",
+      "availability": false,
+      "wineType": "",
+      "origin": "",
+      "criticsScore": "94 / 100",
+      "bottleSize": "Bottle (750ml)"
+    },
+    {
+      "title": "Philippe Fontaine Champagne Brut Rose, Rose de Saignee, NV",
+      "price": "₹ 23,256,596",
+      "imagePath": "assets/images7.png",
+      "availability": true,
+      "wineType": "",
+      "origin": "",
+      "criticsScore": "94 / 100",
+      "bottleSize": "Bottle (750ml)"
+    },
+    {
+      "title": "2021 Cicada Song Rose",
+      "price": "₹ 23,256,596",
+      "imagePath": "assets/images8.png",
+      "availability": true,
+      "wineType": "",
+      "origin": "",
+      "criticsScore": "94 / 100",
+      "bottleSize": "Bottle (750ml)"
+    }
+  ]
+}
